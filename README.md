@@ -1,2 +1,2 @@
 # ois23
-devoir_git_ouitls_info_science
+devoir_git_outils_info_science
